@@ -1,0 +1,2 @@
+# GITIDEATest02
+第二次IDEA集成GIT
